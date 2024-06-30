@@ -1,5 +1,5 @@
 # Define a dictionary with exchange rates
-# These rates are just examples, in a real-world application you would retrieve current rates from an API
+
 exchange_rates = {
     'USD': 1.0,        # US Dollar
     'EUR': 0.85,       # Euro
